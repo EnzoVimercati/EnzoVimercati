@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Enzo Vimercati
 
-Tenho 16 anos e atualmente estudo **Técnico em Informática para Internet** na **FAETEC**. Sou apaixonado por tecnologia e estou sempre disposto a aprender e me desafiar cada vez mais.
+
 
 ---
 
