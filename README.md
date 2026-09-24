@@ -96,23 +96,4 @@ Minha stack de animação e o que gosto de construir com ela:
 - Aprofundar meu domínio de **GSAP** e outras técnicas de animação para criar experiências web cada vez mais imersivas.
 - Evoluir como desenvolvedor full stack e profissional de tecnologia.
 
-## Conecte-se comigo
 
-| Plataforma | Perfil |
-|-----------|--------|
-| GitHub | [EnzoVimercati](https://github.com/EnzoVimercati) |
-| Instagram | [enzo.vimercati](https://www.instagram.com/enzo.vimercati/?hl=pt-br) |
-| Discord | [hero_kt](https://discord.com/) |
-| E-mail | [enzovimercati@gmail.com](mailto:enzovimercati@gmail.com) |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnzoVimercati&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FE4701&icon_color=FE4701&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoVimercati&layout=compact&hide_border=true&bg_color=0D1117&title_color=FE4701&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-> "A tecnologia é uma ferramenta poderosa quando usada com criatividade, disciplina e visão."
