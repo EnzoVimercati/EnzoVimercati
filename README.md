@@ -1,7 +1,7 @@
 # Enzo Vimercati
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FE4701&center=true&vCenter=true&width=650&lines=Desenvolvedor+Web;Especialista+em+GSAP+%26+Anima%C3%A7%C3%B5es;Cria%C3%A7%C3%A3o+de+experi%C3%AAncias+interativas;Criativo+e+detalhista" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FE4701&center=true&vCenter=true&width=650&lines=Desenvolvedor+Web;Desenvolvedor+GSAP+%26+Anima%C3%A7%C3%B5es;Cria%C3%A7%C3%A3o+de+experi%C3%AAncias+interativas;Criativo+e+detalhista" alt="Typing SVG" />
 </div>
 
 <p align="center">
