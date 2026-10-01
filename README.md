@@ -40,7 +40,6 @@ My animation stack and what I like to build with it:
 <p align="left">
   <img src="https://img.shields.io/badge/GSAP-core-FE4701?style=flat-square&logo=greensock&logoColor=white" alt="GSAP Core" />
   <img src="https://img.shields.io/badge/ScrollTrigger-scroll_animations-FE4701?style=flat-square&logo=greensock&logoColor=white" alt="ScrollTrigger" />
-  <img src="https://img.shields.io/badge/Timelines-sequences-FE4701?style=flat-square&logo=greensock&logoColor=white" alt="Timelines" />
 </p>
 
 <table>
