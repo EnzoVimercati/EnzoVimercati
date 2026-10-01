@@ -1,7 +1,7 @@
 # Enzo Vimercati
 
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FE4701&center=true&vCenter=true&width=650&lines=Web+Developer;GSAP+%26+Animation+Developer;Interactive+experience+creation;Creative+and+detail-oriented](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&color=FE4701\&center=true\&vCenter=true\&width=650\&lines=Web+Developer;GSAP+%26+Animation+Developer;Interactive+experience+creation;Creative+and+detail-oriented)" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FE4701&center=true&vCenter=true&width=650&lines=Desenvolvedor+Web;Desenvolvedor+GSAP+%26+Anima%C3%A7%C3%B5es;Cria%C3%A7%C3%A3o+de+experi%C3%AAncias+interativas;Criativo+e+detalhista](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&color=FE4701\&center=true\&vCenter=true\&width=650\&lines=Desenvolvedor+Web;Desenvolvedor+GSAP+%26+Anima%C3%A7%C3%B5es;Cria%C3%A7%C3%A3o+de+experi%C3%AAncias+interativas;Criativo+e+detalhista)" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
     <img src="[https://img.shields.io/badge/Discord-hero_kt-FE4701?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-hero_kt-FE4701?style=for-the-badge\&logo=discord\&logoColor=white)" alt="Discord" />
   </a>
   <a href="[https://gsap.com/](https://gsap.com/)">
-    <img src="[https://img.shields.io/badge/GSAP-Animations-FE4701?style=for-the-badge&logo=greensock&logoColor=white](https://img.shields.io/badge/GSAP-Anima%C3%A7%C3%B5es-FE4701?style=for-the-badge\&logo=greensock\&logoColor=white)" alt="GSAP" />
+    <img src="[https://img.shields.io/badge/GSAP-Anima%C3%A7%C3%B5es-FE4701?style=for-the-badge&logo=greensock&logoColor=white](https://img.shields.io/badge/GSAP-Anima%C3%A7%C3%B5es-FE4701?style=for-the-badge\&logo=greensock\&logoColor=white)" alt="GSAP" />
   </a>
 </p>
 
@@ -27,11 +27,11 @@
 
 ## About me
 
-I am a developer passionate about technology, design, and problem-solving. I have a special interest in **interactive web development** — transforming static pages into living experiences, with movement, rhythm, and responsiveness to the user.
+I am a developer passionate about technology, design and problem-solving. I have a special interest in **interactive web development** — transforming static pages into living experiences, with movement, rhythm and responsiveness to the user.
 
-I work extensively with **GSAP (GreenSock Animation Platform)** to build performant animations: smooth transitions, complex timelines, scroll effects with **ScrollTrigger**, and microinteractions that give personality to the interface without sacrificing performance.
+I work extensively with **GSAP (GreenSock Animation Platform)** to build performant animations: smooth transitions, complex timelines, scroll effects with **ScrollTrigger** and microinteractions that give personality to the interface without compromising performance.
 
-Currently, I develop full stack solutions and study technologies focused on front-end, back-end, and user experience, always seeking to combine clean code with interfaces that truly engage users.
+Currently, I develop full stack solutions and study technologies focused on front-end, back-end and user experience, always seeking to combine clean code with interfaces that truly engage users.
 
 ## Animation & Interactivity
 
@@ -40,7 +40,7 @@ My animation stack and what I like to build with it:
 <p align="left">
   <img src="[https://img.shields.io/badge/GSAP-core-FE4701?style=flat-square&logo=greensock&logoColor=white](https://img.shields.io/badge/GSAP-core-FE4701?style=flat-square\&logo=greensock\&logoColor=white)" alt="GSAP Core" />
   <img src="[https://img.shields.io/badge/ScrollTrigger-scroll_animations-FE4701?style=flat-square&logo=greensock&logoColor=white](https://img.shields.io/badge/ScrollTrigger-scroll_animations-FE4701?style=flat-square\&logo=greensock\&logoColor=white)" alt="ScrollTrigger" />
-  <img src="[https://img.shields.io/badge/Timelines-sequences-FE4701?style=flat-square&logo=greensock&logoColor=white](https://img.shields.io/badge/Timelines-sequ%C3%AAncias-FE4701?style=flat-square\&logo=greensock\&logoColor=white)" alt="Timelines" />
+  <img src="[https://img.shields.io/badge/Timelines-sequ%C3%AAncias-FE4701?style=flat-square&logo=greensock&logoColor=white](https://img.shields.io/badge/Timelines-sequ%C3%AAncias-FE4701?style=flat-square\&logo=greensock\&logoColor=white)" alt="Timelines" />
 </p>
 
 <table>
@@ -50,7 +50,7 @@ My animation stack and what I like to build with it:
   </tr>
   <tr>
     <td width="28"><img src="[https://img.icons8.com/ios-filled/20/FE4701/cursor.png](https://img.icons8.com/ios-filled/20/FE4701/cursor.png)" width="18" alt="" /></td>
-    <td>Microinteractions in buttons, cards, and navigation to reinforce visual feedback</td>
+    <td>Microinteractions in buttons, cards and navigation to reinforce visual feedback</td>
   </tr>
   <tr>
     <td width="28"><img src="[https://img.icons8.com/ios-filled/20/FE4701/smartphone.png](https://img.icons8.com/ios-filled/20/FE4701/smartphone.png)" width="18" alt="" /></td>
@@ -91,7 +91,7 @@ My animation stack and what I like to build with it:
 
 ## Goals
 
-* Keep learning and stay up to date with the market.
-* Build projects with quality, clarity, and real-world impact.
+* Keep learning continuously and stay up to date with the market.
+* Build projects with quality, clarity and real-world impact.
 * Deepen my knowledge of **GSAP** and other animation techniques to create increasingly immersive web experiences.
 * Grow as a full stack developer and technology professional.
